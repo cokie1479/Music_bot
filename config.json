@@ -1,0 +1,9 @@
+{
+    "name": "Music Duck",
+    "prefix": "!",
+    "playing": "!help | music",
+    "quality": "highestaudio",
+    "maxVol": 200,
+    "autoLeave": true,
+    "displayVoiceState": true
+}
